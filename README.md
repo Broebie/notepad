@@ -1,3 +1,11 @@
+## Credits
+This is a fork from the original esx_notepad script created by Aik-10 at:
+https://github.com/Aik-10/notepad
+
+I do not own this script nor do I give support out for anybody.
+
+In no way am I affiliated with Aik-10. Show your support with the official creator of this script. 
+
 Fivem Notepad
 ===================================
 ## Pictures
